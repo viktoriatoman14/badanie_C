@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MainWindow/MainWindow.csproj" />
+  <Project Path="projekt_uproszczony/ExperimentProject.csproj" />
+  <Project Path="QuestionWindow/QuestionWindow.csproj" />
+</Solution>
