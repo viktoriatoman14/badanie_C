@@ -1,0 +1,18 @@
+<Window x:Class="ExperimentProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Start" Height="300" Width="400">
+    <StackPanel Margin="20">
+        <TextBlock Text="Wiek:"/>
+        <TextBox x:Name="txtAge" Text="25"/>
+        <TextBlock Text="Płeć (M/K):" Margin="0,10,0,0"/>
+        <TextBox x:Name="txtGender" Text="M"/>
+        <TextBlock Text="Kierunek:" Margin="0,10,0,0"/>
+        <TextBox x:Name="txtKierunek" Text="Informatyka"/>
+        <TextBlock Text="Jak w skali 1-6 radzisz sobie ze stresem:" Margin="0,10,0,0"/>
+        <TextBox x:Name="txtStres" Text="0"/>
+        <TextBlock Text="Jak w skali 1-4 poradzilbys sobie obecnie z naglym wydatkiem 2000zl?:" Margin="0,10,0,0"/>
+        <TextBox x:Name="txtZamoznosc" Text="0"/>
+        <Button Content="Zacznij Badanie" Click="StartClick" Height="37"/>
+    </StackPanel>
+</Window>
