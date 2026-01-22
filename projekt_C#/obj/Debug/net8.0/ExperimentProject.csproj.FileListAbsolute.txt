@@ -1,0 +1,14 @@
+/app/projekt_C#/bin/Debug/net8.0/ExperimentProject
+/app/projekt_C#/bin/Debug/net8.0/ExperimentProject.deps.json
+/app/projekt_C#/bin/Debug/net8.0/ExperimentProject.runtimeconfig.json
+/app/projekt_C#/bin/Debug/net8.0/ExperimentProject.dll
+/app/projekt_C#/bin/Debug/net8.0/ExperimentProject.pdb
+/app/projekt_C#/obj/Debug/net8.0/ExperimentProject.GeneratedMSBuildEditorConfig.editorconfig
+/app/projekt_C#/obj/Debug/net8.0/ExperimentProject.AssemblyInfoInputs.cache
+/app/projekt_C#/obj/Debug/net8.0/ExperimentProject.AssemblyInfo.cs
+/app/projekt_C#/obj/Debug/net8.0/ExperimentProject.csproj.CoreCompileInputs.cache
+/app/projekt_C#/obj/Debug/net8.0/ExperimentProject.dll
+/app/projekt_C#/obj/Debug/net8.0/refint/ExperimentProject.dll
+/app/projekt_C#/obj/Debug/net8.0/ExperimentProject.pdb
+/app/projekt_C#/obj/Debug/net8.0/ExperimentProject.genruntimeconfig.cache
+/app/projekt_C#/obj/Debug/net8.0/ref/ExperimentProject.dll
